@@ -14,7 +14,6 @@ github_username: "disintegr8te"
 #########################################################################################
 theme: "minima"
 
-rss: rss
 
 kramdown:
   syntax_highlighter_opts:
